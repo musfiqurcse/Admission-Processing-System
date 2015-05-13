@@ -1,0 +1,58 @@
+E:\Top Work\HomeWork\Sir Project\AdmissionProcessingSystem\bin\Debug\AdmissionProcessingSystem.exe.config
+E:\Top Work\HomeWork\Sir Project\AdmissionProcessingSystem\bin\Debug\AdmissionProcessingSystem.exe
+E:\Top Work\HomeWork\Sir Project\AdmissionProcessingSystem\bin\Debug\AdmissionProcessingSystem.pdb
+E:\Top Work\HomeWork\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.csprojResolveAssemblyReference.cache
+E:\Top Work\HomeWork\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.Form1.resources
+E:\Top Work\HomeWork\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.Properties.Resources.resources
+E:\Top Work\HomeWork\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.csproj.GenerateResource.Cache
+E:\Top Work\HomeWork\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.exe
+E:\Top Work\HomeWork\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.pdb
+E:\Top Work\HomeWork\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.Main.resources
+E:\Top Work\HomeWork\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.StudentInfoForm.resources
+E:\Top Work\HomeWork\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.AddStudentInfo.resources
+E:\Top Work\HomeWork\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.DeleteStudentResult.resources
+C:\Users\Shibly\Desktop\Sir Project\AdmissionProcessingSystem\bin\Debug\AdmissionProcessingSystem.exe.config
+C:\Users\Shibly\Desktop\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.exe
+C:\Users\Shibly\Desktop\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.pdb
+C:\Users\Shibly\Desktop\Sir Project\AdmissionProcessingSystem\bin\Debug\AdmissionProcessingSystem.exe
+C:\Users\Shibly\Desktop\Sir Project\AdmissionProcessingSystem\bin\Debug\AdmissionProcessingSystem.pdb
+C:\Users\Shibly\Desktop\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Shibly\Desktop\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.AddStudentInfo.resources
+C:\Users\Shibly\Desktop\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.DeleteStudentResult.resources
+C:\Users\Shibly\Desktop\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.findStudentInformation.resources
+C:\Users\Shibly\Desktop\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.Form1.resources
+C:\Users\Shibly\Desktop\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.StudentInfoForm.resources
+C:\Users\Shibly\Desktop\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.Main.resources
+C:\Users\Shibly\Desktop\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.Properties.Resources.resources
+C:\Users\Shibly\Desktop\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.csproj.GenerateResource.Cache
+C:\Users\Md.Musfiqur\Desktop\New\Sir Project\AdmissionProcessingSystem\bin\Debug\AdmissionProcessingSystem.exe.config
+C:\Users\Md.Musfiqur\Desktop\New\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.exe
+C:\Users\Md.Musfiqur\Desktop\New\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.pdb
+C:\Users\Md.Musfiqur\Desktop\New\Sir Project\AdmissionProcessingSystem\bin\Debug\AdmissionProcessingSystem.exe
+C:\Users\Md.Musfiqur\Desktop\New\Sir Project\AdmissionProcessingSystem\bin\Debug\AdmissionProcessingSystem.pdb
+C:\Users\Md.Musfiqur\Desktop\New\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Md.Musfiqur\Desktop\New\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.AddStudentInfo.resources
+C:\Users\Md.Musfiqur\Desktop\New\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.DeleteStudentResult.resources
+C:\Users\Md.Musfiqur\Desktop\New\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.FindStudentInformation.resources
+C:\Users\Md.Musfiqur\Desktop\New\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.Form1.resources
+C:\Users\Md.Musfiqur\Desktop\New\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.StudentInfoForm.resources
+C:\Users\Md.Musfiqur\Desktop\New\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.Main.resources
+C:\Users\Md.Musfiqur\Desktop\New\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.Properties.Resources.resources
+C:\Users\Md.Musfiqur\Desktop\New\Sir Project\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.csproj.GenerateResource.Cache
+G:\C# tutorial\Target\AdmissionProcessingSystem\bin\Debug\AdmissionProcessingSystem.exe.config
+G:\C# tutorial\Target\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.exe
+G:\C# tutorial\Target\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.pdb
+G:\C# tutorial\Home Work\AdmissionProcessingSystem\bin\Debug\AdmissionProcessingSystem.exe.config
+G:\C# tutorial\Home Work\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.exe
+G:\C# tutorial\Home Work\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.pdb
+G:\C# tutorial\Home Work\AdmissionProcessingSystem\bin\Debug\AdmissionProcessingSystem.exe
+G:\C# tutorial\Home Work\AdmissionProcessingSystem\bin\Debug\AdmissionProcessingSystem.pdb
+G:\C# tutorial\Home Work\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.csprojResolveAssemblyReference.cache
+G:\C# tutorial\Home Work\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.AddStudentInfo.resources
+G:\C# tutorial\Home Work\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.DeleteStudentResult.resources
+G:\C# tutorial\Home Work\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.FindStudentInformation.resources
+G:\C# tutorial\Home Work\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.Form1.resources
+G:\C# tutorial\Home Work\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.StudentInfoForm.resources
+G:\C# tutorial\Home Work\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.Main.resources
+G:\C# tutorial\Home Work\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.Properties.Resources.resources
+G:\C# tutorial\Home Work\AdmissionProcessingSystem\obj\Debug\AdmissionProcessingSystem.csproj.GenerateResource.Cache
